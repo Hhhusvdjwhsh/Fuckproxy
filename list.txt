@@ -10,4 +10,4 @@ https://api.proxyscrape.com/?request=displayproxies&proxytype=https
 https://shieldcommunity.net/sockets.txt
 https://raw.githubusercontent.com/casals-ar/proxy-list/main/socks4
 https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/socks4_proxies.txt
-https://raw.githubusercontent.com/Hhhusvdjwhsh/Fuckproxy/main/list.txt
+https://raw.githubusercontent.com/Hhhusvdjwhsh/Fuckproxy/main/Proxy1.txt
